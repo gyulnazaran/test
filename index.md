@@ -1,37 +1,27 @@
-## Welcome to GitHub Pages
+# Баухаус
+   
+    
+ Баухаус — это направление модернистской архитектуры, которое вызвало переворот в мире дизайна.   
+ 
+Баухаус объединил урбанистичность, технологичность, доступность в цене и отражает традиционную немецкую практичность. Баухаус (из немецкого — Bauhaus, что переводится как “дом строительства”) — это направление модернистской архитектуры, которое зародилось в Германии в стенах Высшей школы строительства и художественного конструирования. В 1919 году архитектор Вальтер Гропиус создал “Манифест Баухауза”, в котором изложен принцип взаимодействия художников с ремесленниками. Таким образом архитектура стала почвой для массового производства.
 
-You can use the [editor on GitHub](https://github.com/gyulnazaran/test/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+    
+Отличительные характеристики баухауса:
+      ⠀   
+        
+- Детали интерьера лаконичны, практичны, имеют простые формы, а главное —удобны в использовании.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+- Баухаусу свойственно рациональное использование пространства и минимум декора.
 
-### Markdown
+- Используются только нейтральные оттенки: белый, бежевый, серый и черный. Зеленый, синий, желтый и красный выступают в качестве акцентных цветов.
+        
+- Раздельное освещение — основной принцип баухауса. Каждая функциональная зона должна иметь свой обильный источник света. Вместо декора часто используются светильники или настенные бра. А холодные яркие цвета и светлые стены способствуют визуальному расширению пространства. 
+    
+![Интерьер в стиле баухаус](stil-baukhauz.jpg)
+    ![Интерьер в стиле баухаус](stil-bauhauz-v-interere-foto-i-primery34.jpg) 
+    
+###  Вальтер Гропиус<br>Основатель стиля баухаус в архитектуре 
+![Основатель стиля баухаус](274px-WalterGropius-1919.jpg)
+      
+ 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/gyulnazaran/test/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
