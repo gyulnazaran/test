@@ -16,10 +16,10 @@
         
 - Раздельное освещение — основной принцип баухауса. Каждая функциональная зона должна иметь свой обильный источник света. Вместо декора часто используются светильники или настенные бра. А холодные яркие цвета и светлые стены способствуют визуальному расширению пространства. 
     
-![Интерьер в стиле баухаус](/Users/anzelika.gyulnazaryan/Desktop/ТЗ/images/stil-bauhauz-v-interere-foto-i-primery34.jpg)
-    ![Интерьер в стиле баухаус](/Users/anzelika.gyulnazaryan/Desktop/ТЗ/images/stil-baukhauz.jpg) 
+![Интерьер в стиле баухаус](stil-baukhauz.jpg)
+    ![Интерьер в стиле баухаус](stil-bauhauz-v-interere-foto-i-primery34.jpg) 
     
 ###  Вальтер Гропиус<br>Основатель стиля баухаус в архитектуре 
-![Основатель стиля баухаус](/Users/anzelika.gyulnazaryan/Desktop/ТЗ/images/274px-WalterGropius-1919.jpg)
+![Основатель стиля баухаус](274px-WalterGropius-1919.jpg)
       
  
